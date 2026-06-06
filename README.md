@@ -27,7 +27,7 @@ video production pipelines using n8n, Make.com, and Claude Code.
 Building scalable AI video automation systems for content creators, agencies, and DTC brands that eliminate manual video editing.
 
 ## 📫 Connect
-- **Upwork:** https://www.upwork.com/freelancers/[paste-your-url-here]
+- **Upwork:** https://www.upwork.com/freelancers/~013ebce00cbb5f4299?mp_source=share
 - **Email:** blessingstatham51@gmail.com
 
 ---
